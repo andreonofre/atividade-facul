@@ -213,9 +213,9 @@ const ListarTarefa = () => {
           <Button size="small" variant="contained" onClick={handleOpen}>
             Criar Tarefa
           </Button>
-          <Button size="small" variant="outlined">
+          {/* <Button size="small" variant="outlined">
             Cancelar
-          </Button>
+          </Button> */}
         </CardActions>
       </Card>
       <div>
